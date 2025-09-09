@@ -12,6 +12,11 @@ Space debris poses a significant threat to operational satellites. This project 
 - Risk scoring considers altitude difference, relative velocity, and debris size
 - Easy to run in MySQL Workbench
 
+##  Output
+<div align="center">
+  <img src="./output.png" width="200">
+</div>
+
 ##  Tech Stack
 - **Database:** MySQL
 - **Procedures & Triggers:** SQL stored procedures
