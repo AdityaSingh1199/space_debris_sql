@@ -14,7 +14,7 @@ Space debris poses a significant threat to operational satellites. This project 
 
 ##  Output
 <div align="center">
-  <img src="./output.png" width="200">
+  <img src="./output.png" width="800">
 </div>
 
 ##  Tech Stack
